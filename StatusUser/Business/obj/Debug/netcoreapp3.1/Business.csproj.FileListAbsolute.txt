@@ -1,0 +1,15 @@
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Business/bin/Debug/netcoreapp3.1/Business.deps.json
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Business/bin/Debug/netcoreapp3.1/Business.dll
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Business/bin/Debug/netcoreapp3.1/Business.pdb
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Business/bin/Debug/netcoreapp3.1/DataContext.dll
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Business/bin/Debug/netcoreapp3.1/Entities.dll
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Business/bin/Debug/netcoreapp3.1/DataContext.pdb
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Business/bin/Debug/netcoreapp3.1/Entities.pdb
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Business/obj/Debug/netcoreapp3.1/Business.csproj.AssemblyReference.cache
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Business/obj/Debug/netcoreapp3.1/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Business/obj/Debug/netcoreapp3.1/Business.AssemblyInfoInputs.cache
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Business/obj/Debug/netcoreapp3.1/Business.AssemblyInfo.cs
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Business/obj/Debug/netcoreapp3.1/Business.csproj.CoreCompileInputs.cache
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Business/obj/Debug/netcoreapp3.1/Business.csproj.CopyComplete
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Business/obj/Debug/netcoreapp3.1/Business.dll
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Business/obj/Debug/netcoreapp3.1/Business.pdb

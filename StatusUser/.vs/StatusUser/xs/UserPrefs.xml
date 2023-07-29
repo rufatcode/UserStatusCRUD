@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{5A57DBC2-E7A3-4EE4-BB77-EB109142711F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StatusUser PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Business/Services/StatusServices.cs">
+    <Files>
+      <File FileName="StatusUser/Program.cs" Line="33" Column="39" />
+      <File FileName="Entities/Interfaces/IEntities.cs" Line="6" Column="10" />
+      <File FileName="Entities/Models/Status.cs" Line="15" Column="4" />
+      <File FileName="Entities/Models/User.cs" Line="15" Column="4" />
+      <File FileName="DataContext/DbContext.cs" Line="11" Column="3" />
+      <File FileName="DataContext/Interfaces/IRepozitory.cs" />
+      <File FileName="DataContext/Repozitories/UserRepozitory.cs" Line="40" Column="47" />
+      <File FileName="DataContext/Repozitories/StatusRepozitory.cs" Line="38" Column="1" />
+      <File FileName="Business/Interfaces/IBusines.cs" />
+      <File FileName="Business/Services/UserServices.cs" Line="110" Column="29" />
+      <File FileName="Business/Services/StatusServices.cs" Line="117" Column="28" />
+      <File FileName="StatusUser/Controller/StatusController.cs" Line="100" Column="111" />
+      <File FileName="StatusUser/Controller/UserController.cs" Line="174" Column="77" />
+      <File FileName="Utilities/Helper.cs" Line="28" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StatusUser" expanded="True">
+            <Node name="Business" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="StatusServices.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="DataContext" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Repozitories" expanded="True" />
+            </Node>
+            <Node name="Entities" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="StatusUser" expanded="True">
+              <Node name="Controller" expanded="True" />
+            </Node>
+            <Node name="Utilities" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

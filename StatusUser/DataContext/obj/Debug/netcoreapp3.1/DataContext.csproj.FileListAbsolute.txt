@@ -1,0 +1,13 @@
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/DataContext/bin/Debug/netcoreapp3.1/DataContext.deps.json
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/DataContext/bin/Debug/netcoreapp3.1/DataContext.dll
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/DataContext/bin/Debug/netcoreapp3.1/DataContext.pdb
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/DataContext/bin/Debug/netcoreapp3.1/Entities.dll
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/DataContext/bin/Debug/netcoreapp3.1/Entities.pdb
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/DataContext/obj/Debug/netcoreapp3.1/DataContext.csproj.AssemblyReference.cache
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/DataContext/obj/Debug/netcoreapp3.1/DataContext.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/DataContext/obj/Debug/netcoreapp3.1/DataContext.AssemblyInfoInputs.cache
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/DataContext/obj/Debug/netcoreapp3.1/DataContext.AssemblyInfo.cs
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/DataContext/obj/Debug/netcoreapp3.1/DataContext.csproj.CoreCompileInputs.cache
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/DataContext/obj/Debug/netcoreapp3.1/DataContext.csproj.CopyComplete
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/DataContext/obj/Debug/netcoreapp3.1/DataContext.dll
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/DataContext/obj/Debug/netcoreapp3.1/DataContext.pdb

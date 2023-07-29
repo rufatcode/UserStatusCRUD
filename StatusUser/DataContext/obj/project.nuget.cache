@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KmjLJWX9SjxibM1nFIXTjWRZccPBiYIk2xoFq9UXmGXz6FvDkdiR3Jn3nJJVmDD7+/LLmU/nDVzMZOPj6Pkr1w==",
+  "success": true,
+  "projectFilePath": "/Volumes/Mac/C#/UserStatusCRUD/StatusUser/DataContext/DataContext.csproj",
+  "expectedPackageFiles": [
+    "/Users/rufat/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

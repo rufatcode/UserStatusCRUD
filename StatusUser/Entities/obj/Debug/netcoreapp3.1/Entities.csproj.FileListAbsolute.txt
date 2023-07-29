@@ -1,0 +1,10 @@
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Entities/bin/Debug/netcoreapp3.1/Entities.deps.json
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Entities/bin/Debug/netcoreapp3.1/Entities.dll
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Entities/bin/Debug/netcoreapp3.1/Entities.pdb
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Entities/obj/Debug/netcoreapp3.1/Entities.csproj.AssemblyReference.cache
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Entities/obj/Debug/netcoreapp3.1/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Entities/obj/Debug/netcoreapp3.1/Entities.AssemblyInfoInputs.cache
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Entities/obj/Debug/netcoreapp3.1/Entities.AssemblyInfo.cs
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Entities/obj/Debug/netcoreapp3.1/Entities.csproj.CoreCompileInputs.cache
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Entities/obj/Debug/netcoreapp3.1/Entities.dll
+/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Entities/obj/Debug/netcoreapp3.1/Entities.pdb

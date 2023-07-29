@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N4h2I3IH6y+YS1etBdQqfrPoAykxdSDNwSD+ufavj6PGhQQ7zDGf3hjnFO2g62VqG6Cz9IdUH/gEeZ0oEgGqXg==",
+  "success": true,
+  "projectFilePath": "/Volumes/Mac/C#/UserStatusCRUD/StatusUser/Entities/Entities.csproj",
+  "expectedPackageFiles": [
+    "/Users/rufat/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
